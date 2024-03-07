@@ -1,0 +1,11 @@
+---
+title: "practice_code"
+output: html_document
+date: "2024-03-07"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+:)  
